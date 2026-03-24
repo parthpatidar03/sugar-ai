@@ -233,7 +233,7 @@ Sugar-AI provides three different endpoints for different use cases:
     ```
 
     **Use Cases:**
-    Prompted Mode: Different activites can now use different system prompts and different generation parameters to achieve a model that is personalized to that activites needs.  
+    Prompted Mode: Different activites can now use different system prompts and different generation parameters to achieve a model that is personalized to that activities needs.  
     Chat Mode: They can also use the chat mode to give context of chat history to the LLM better suited for conversational style features.
 
     **Generation Parameter Guidelines:**
